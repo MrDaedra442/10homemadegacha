@@ -4,7 +4,7 @@ const clickCountSpan = document.getElementById('clickCount');
 const displayOneResultButton = document.getElementById('display-one-result'); // New button
 
 const characters = [
-    { rarity: '3star', name: '3 star lightcone', odds: 94.3, avatar: '../10homemadegacha/3Star.png'},
+    { rarity: '3star', name: '3 star lightcone', odds: 94.3, avatar: '../10homemadegacha/ThreeStar.png'},
     { rarity: '4star', name: 'Arlan', odds: 0.17, avatar: '../10homemadegacha/Arlan.png' },
     { rarity: '4star', name: 'Asta', odds: 0.17, avatar: '../10homemadegacha/Asta.png' },
     { rarity: '4star', name: 'Dan Heng', odds: 0.17, avatar: '../10homemadegacha/DanHeng.png' },
@@ -34,7 +34,7 @@ const characters = [
     { rarity: '5star', name: 'Something Irreplaceable', odds: 0.04285714286, avatar: '../10homemadegacha/LCClara.png' },
     { rarity: '5star', name: 'Sleep Like the Dead', odds: 0.04285714286, avatar: '../10homemadegacha/LCYanqing.png' },
     { rarity: '5star', name: 'Time Waits for No One', odds: 0.04285714286, avatar: '../10homemadegacha/LCBailu.png' },
-    { rarity: '4star', name: '4 Star lightcone (21 in total)', odds:2.55, avatar: '../10homemadegacha/4Star.png'},
+    { rarity: '4star', name: '4 Star lightcone (21 in total)', odds:2.55, avatar: '../10homemadegacha/FourStar.png'},
 ];
 
 // Initialize click count
